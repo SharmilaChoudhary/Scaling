@@ -2,6 +2,8 @@
 
   Compiler interfaces with various blockchain networks, including Gnosis, Scroll, Chiliz, Arbitrum Stylus Testnet. The smart contract compilation process is facilitated using solc.js. Integration with WalletConnect enables users to establish a connection between their wallets and the compiler. Additionally, Worldcoin ID integration has been implemented to cover the gas fees incurred by users during transactions. This setup ensures a seamless and interconnected environment for smart contract development and execution across multiple blockchain networks.
 
+Arbitrum sepolia testnet
+https://sepolia-explorer.arbitrum.io/address/0x288D5Ba1E9725E79eAc078c86439135dB0eD8c21
 
 scroll sepolia testnet
 https://sepolia.scrollscan.dev/address/0x4523c1c28c8774d44368ef7A8642DdB3EB15C0De
